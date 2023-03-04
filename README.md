@@ -18,6 +18,10 @@ I am going to take a moment and learn a few markdown tricks because I realized t
 
 [^1]: Oh no, this one is a plant!
 
+
+---
+
+
 ### My progress in learning git so far today:
 
 **Known unknowns:**
